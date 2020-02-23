@@ -1,0 +1,2 @@
+Main-Class: chat.superserver.ChatSuperServer
+Class-Path: ChatSuperServer.jar jini-core.jar jini-ext.jar reggie-dl.jar
